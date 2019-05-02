@@ -14,6 +14,7 @@
 Included: Character Sheet, Major NPC, Minor NPC, PC Tracker, Combat Encounter
 
 </br>
+
 __Character Sheet__
   
 * corrected a skill field error (Medicine and Investigate fields were linked)
