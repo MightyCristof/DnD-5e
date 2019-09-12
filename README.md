@@ -13,11 +13,9 @@ Included:
 * Combat Encounter Sheet
 * Speed Factor Initiative Cards
 
-
 ---
 
----
-A few form fillable sheets for D&D 5e that I've modified.  
+Form fillable sheets for D&D 5e that I've modified.  
 I don't take credit for any of these, I simply found them online somewhere and decided to make some changes.  
 
 </br>
