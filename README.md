@@ -63,8 +63,7 @@ I made my own using the D&D 5e LaTeX template by Evan Bergeron.
 
 __Speed Factor Initiative Cards__
 
-* decreased "Notes" section and added "clear PDF" buttons (bottom left)
-* decreased field sizes for aesthetics
-* normalized field font to match other sheets (Helvetica)
+* card size 2.5in x 3.5in 
+* fits in a card sleeve!
 
 
