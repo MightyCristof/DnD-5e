@@ -23,13 +23,6 @@ I don't take credit for any of these, I simply found them online somewhere and d
 
 </br>
 
-</br>
-
-
-</br>
-
-</br>
-
 __Character Sheet__
   
 * corrected a skill field error (Medicine and Investigate fields were linked)
@@ -66,7 +59,7 @@ __Combat Encounter__
 
 Speed Factor Initiative Cards. The scan of the table from the DMG you find online is blurry.
 I made my own using the D&D 5e LaTeX template by Evan Bergeron.
-https://github.com/rpgtex/DND-5e-LaTeX-Template
+>https://github.com/rpgtex/DND-5e-LaTeX-Template
 
 
 __Speed Factor Initiative Cards__
