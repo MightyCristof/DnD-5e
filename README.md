@@ -2,7 +2,7 @@
 
 >Random useful materials for the "world's greatest roleplaying game."
 >Enjoy!  
->>~ Mighty Cristof
+>~ Mighty Cristof
 
 </br>
 
