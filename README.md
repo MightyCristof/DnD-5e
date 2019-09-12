@@ -1,17 +1,30 @@
 # DnD 5e
 
->A few form fillable sheets for D&D 5e that I've modified.  
->I don't take credit for any of these, I simply found them online somewhere and decided to make some changes.  
+>Random useful materials for the "world's greatest roleplaying game."
 >Enjoy!  
 >>~ Mighty Cristof
 
 </br>
 
+Included:
+* Character Sheet
+* Major NPC Sheet
+* Minor NPC Sheet
+* PC Tracker Sheet
+* Combat Encounter Sheet
+* Speed Factor Initiative Cards
+
+
 ---
 
 ---
+>A few form fillable sheets for D&D 5e that I've modified.  
+>I don't take credit for any of these, I simply found them online somewhere and decided to make some changes.  
+
 </br>
-Included: Character Sheet, Major NPC, Minor NPC, PC Tracker, Combat Encounter
+
+</br>
+
 
 </br>
 
@@ -44,6 +57,19 @@ __PC Tracker__
 * normalized field font to match other sheets (Helvetica)
 
 __Combat Encounter__
+
+* decreased "Notes" section and added "clear PDF" buttons (bottom left)
+* decreased field sizes for aesthetics
+* normalized field font to match other sheets (Helvetica)
+
+---
+
+>Speed Factor Initiative Cards. The scan of the table from the DMG you find online is blurry.
+>I made my own using the D&D 5e LaTeX template by Evan Bergeron.
+>https://github.com/rpgtex/DND-5e-LaTeX-Template
+
+
+__Speed Factor Initiative Cards__
 
 * decreased "Notes" section and added "clear PDF" buttons (bottom left)
 * decreased field sizes for aesthetics
