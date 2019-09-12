@@ -18,8 +18,8 @@ Included:
 ---
 
 ---
->A few form fillable sheets for D&D 5e that I've modified.  
->I don't take credit for any of these, I simply found them online somewhere and decided to make some changes.  
+A few form fillable sheets for D&D 5e that I've modified.  
+I don't take credit for any of these, I simply found them online somewhere and decided to make some changes.  
 
 </br>
 
@@ -64,9 +64,9 @@ __Combat Encounter__
 
 ---
 
->Speed Factor Initiative Cards. The scan of the table from the DMG you find online is blurry.
->I made my own using the D&D 5e LaTeX template by Evan Bergeron.
->https://github.com/rpgtex/DND-5e-LaTeX-Template
+Speed Factor Initiative Cards. The scan of the table from the DMG you find online is blurry.
+I made my own using the D&D 5e LaTeX template by Evan Bergeron.
+https://github.com/rpgtex/DND-5e-LaTeX-Template
 
 
 __Speed Factor Initiative Cards__
