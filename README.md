@@ -51,6 +51,7 @@ __PC Tracker__
 * decreased field sizes for aesthetics
 * rekeyed "clear PDF" buttons (button right)
 * normalized field font to match other sheets (Helvetica)
+* normalized PDF font (Scaly Sans)
 
 __Combat Encounter__
 
@@ -58,6 +59,7 @@ __Combat Encounter__
 * decreased field sizes for aesthetics
 * normalized PDF font (Scaly Sans)
 * normalized field font to match other sheets (Helvetica)
+* normalized PDF font (Scaly Sans)
 
 ---
 
