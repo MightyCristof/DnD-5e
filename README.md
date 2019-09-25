@@ -31,15 +31,20 @@ __Character Sheet__
 * split "Treasure" into two sections and added coin fields
 * doubled the number of spell fields for each level
 
+__Spellcasting Sheet__
+* independent spellcasting sheet (pg 3 of character sheet)
+
 __Major NPC__ 
 
 * decreased field sizes for aesthetics
 * decreased "Roleplay Information" section and added img field for NPC portrait
+* normalized PDF font (Scaly Sans)
 
 __Minor NPC__
 
 * previous PDF was not form fillable, added form fields
 * normalized field font to match other sheets (Helvetica)
+* normalized PDF font (Scaly Sans)
 
 __PC Tracker__
 
@@ -51,6 +56,7 @@ __Combat Encounter__
 
 * decreased "Notes" section and added "clear PDF" buttons (bottom left)
 * decreased field sizes for aesthetics
+* normalized PDF font (Scaly Sans)
 * normalized field font to match other sheets (Helvetica)
 
 ---
